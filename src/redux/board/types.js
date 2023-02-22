@@ -1,0 +1,8 @@
+export const types = {
+  MOVE_UP: "MOVE_UP",
+  MOVE_RIGHT: "MOVE_RIGHT",
+  MOVE_DOWN: "MOVE_DOWN",
+  MOVE_LEFT: "MOVE_LEFT",
+  MOVE_BULLETS: "MOVE_BULLETS",
+  START_GAME: "START_GAME",
+};
