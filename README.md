@@ -1,6 +1,4 @@
-# Redux Saga Intro (538)
-
-For raw project instructions see: http://syllabus.africacode.net/projects/redux-saga-intro/
+# Redux Saga Intro
 
 ### Use the following keyboard keys to move the green character:
 
